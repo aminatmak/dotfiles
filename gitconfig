@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = amina.makhusseyeva@gmail.com
+	name = Amina Makhusseyeva
